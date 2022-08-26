@@ -27,3 +27,7 @@ pip install object-detection
 ```
 !cd Tensorflow && git clone https://github.com/tensorflow/models
 ```
+## Lable Image
+Use label image to label the images of actions to train the model
+more about the Label Images
+[https://blog.roboflow.com/labelimg/](url)
